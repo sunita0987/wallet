@@ -9,7 +9,7 @@ const Icon = () => {
     <div className="relative w-80 rounded-4xl overflow-hidden shadow-lg mt-10 ml-10">
       <img
         src="src/assets/images/2ndimage.png"
-        alt="blur-image"
+        alt="blur image"
         className="w-full h-80 object-cover"
       />
       <div className="absolute bottom-0 w-full bg-gradient-to-t from-black/70 to-transparent text-white flex justify-around py-4">
